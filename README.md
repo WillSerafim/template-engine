@@ -12,7 +12,6 @@ git clone  https://github.com/WillSerafim/template-engine.git
 Abra o diretório clonado e execute os comandos abaixo:
 ```
 composer update
-php artisan key:generate
 ```
 
 Crie um arquivo chamado `.env` na raiz do projeto, pode ser uma cópia do aquivo `.env.example`.
