@@ -47,7 +47,7 @@ class UserController extends Controller
 
         ];
 
-        return view('user',['data' => $data]);
+        return view('user.user',['data' => $data]);
     }
 
     /**
